@@ -1,4 +1,4 @@
-# Hi, I'm Firuz 
+# Hi, my name is Firuz 
 
 **Junior @ USC studying Electrical and Computer Engineering** | Specializing in ASIC/FPGA Design Verification & Digital Logic Design
 
