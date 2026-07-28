@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firuz-farhodov/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhodov@usc.edu)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=FiruzFarhodov&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/FiruzFarhodov)
+
 ---
 
 ```systemverilog
